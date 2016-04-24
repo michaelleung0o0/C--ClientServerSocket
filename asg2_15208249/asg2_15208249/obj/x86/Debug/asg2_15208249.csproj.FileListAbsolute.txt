@@ -1,0 +1,8 @@
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.Form1.resources
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.Properties.Resources.resources
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.csproj.GenerateResource.Cache
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\bin\Debug\asg2_15208249.exe
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\bin\Debug\asg2_15208249.pdb
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.exe
+c:\users\e5208249\documents\visual studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.pdb
+C:\Users\e5208249\Documents\Visual Studio 2010\Projects\asg2_15208249\asg2_15208249\obj\x86\Debug\asg2_15208249.csprojResolveAssemblyReference.cache

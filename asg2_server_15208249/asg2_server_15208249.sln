@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asg2_server_15208249", "asg2_server_15208249\asg2_server_15208249.csproj", "{8D268EEF-8AB7-425C-B6B8-E2E9749CFBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D268EEF-8AB7-425C-B6B8-E2E9749CFBC1}.Debug|x86.ActiveCfg = Debug|x86
+		{8D268EEF-8AB7-425C-B6B8-E2E9749CFBC1}.Debug|x86.Build.0 = Debug|x86
+		{8D268EEF-8AB7-425C-B6B8-E2E9749CFBC1}.Release|x86.ActiveCfg = Release|x86
+		{8D268EEF-8AB7-425C-B6B8-E2E9749CFBC1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
